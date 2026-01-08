@@ -2,7 +2,7 @@
 
 **Live Demo:** [Netlify link यहाँ डालना – deploy के बाद]
 
-**GitHub Repository:** [तुम्हारा GitHub repo link]
+**GitHub Repository:** (https://github.com/awasthianshika263/ryze-redesign)
 
 ## Overview
 Redesigned the Ryze.ai homepage and two inner pages (Features & Pricing) to make it modern, clean, professional, and user-friendly.
