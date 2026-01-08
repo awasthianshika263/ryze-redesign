@@ -1,6 +1,6 @@
 # Ryze.ai Website Redesign
 
-**Live Demo:** [Netlify link यहाँ डालना – deploy के बाद]
+**Live Demo:** https://gilded-kulfi-14a232.netlify.app/
 
 **GitHub Repository:** (https://github.com/awasthianshika263/ryze-redesign)
 
